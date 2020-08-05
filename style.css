@@ -1,0 +1,35 @@
+
+
+body {
+    color: white;
+    margin: 0;
+}
+
+header {
+    color:white;
+    background-color:black;
+    text-align: center;
+    padding: 20px;
+    padding: 25px 0;
+    margin: 0 0 25px 0;
+   
+}
+
+main {
+    margin: 50px 30px;
+    color: black;
+    border: 5px solid red;
+    padding: 20px;
+    margin: 0 auto;
+    width: 600px;
+    background-color: #e4e4e4;
+}
+
+footer {
+color: black;
+background-color: #e4e4e4;
+text-align: center;
+margin-top: 25px;
+padding: 25px 0;
+}
+
